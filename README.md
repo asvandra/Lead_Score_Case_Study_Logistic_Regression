@@ -9,7 +9,7 @@
 ➢ There are some more problems presented by the company which your model should be able to adjust to if the company's requirement changes in the future so you will need to handle these as well.
 
 # This Respo contains :
-1. Well commented Jupyter Notebook
-2. PPT : Analysis
-3. Summary of whole model
+1. Well commented Jupyter Notebook.
+2. PPT : Analysis.
+3. Summary of whole model.
 4. Answers to some questions based on the dataset and the analysis.
